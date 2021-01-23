@@ -7,6 +7,5 @@ All data is saved to local storage.
 
 ## License
 
-MIT
 
-**Free Software, Hell Yeah!**
+lgpl-3.0
