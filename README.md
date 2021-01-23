@@ -10,3 +10,4 @@ All data is saved to local storage.
 MIT
 
 **Free Software, Hell Yeah!**
+gpl
